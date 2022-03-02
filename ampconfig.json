@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "Dine Brand ",
+    "description": "",
+    "version": "d3psblfu",
+    "id": "cl090fq363815501s6gae788yd",
+    "url": "https://app.amplication.com/cl090fq363815501s6gae788yd",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl090fq363815501s6gae788yd",
+      "authProvider": "Jwt"
+    }
+  }
+}
